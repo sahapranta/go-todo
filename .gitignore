@@ -1,0 +1,22 @@
+/tmp
+node_modules
+.env
+
+# Compiled object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+vendor/
+
+# Complied binary files
+*.exe
+*.bin
+
+.DS_Store
+
+/bin/
+*.out
